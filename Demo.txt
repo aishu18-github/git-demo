@@ -1,0 +1,8 @@
+Git Bootcamp
+Search for Git Bash on search bar
+open git bash and type git --version
+in vs code create new folder
+type git init
+git status
+git add . to track file
+git status
