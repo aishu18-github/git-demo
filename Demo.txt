@@ -6,3 +6,5 @@ type git init
 git status
 git add . to track file
 git status
+git commit -m "Meaningful name"
+git commit -m "message"
